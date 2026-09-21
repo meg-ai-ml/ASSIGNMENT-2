@@ -72,6 +72,4 @@ End
 
 ## 👤 Author
 
-**Your Name**  
-Course / Assignment Name  
-[GitHub](https://github.com/<your-username>)
+Meghana Thalakola 
